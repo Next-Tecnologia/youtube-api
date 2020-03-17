@@ -81,10 +81,10 @@ public function testVideo()
 
 ## Author
 
-* Gabriel Modesto - [e-mail](gabriel.modesto@nexttecnologiadainformacao.com.br)
+* Gabriel Modesto - gabriel.modesto@nexttecnologiadainformacao.com.br
 
 ## Colaboradores
 
-* Felipe Renan Vieira - [e-mail](felipe.vieira@nexttecnologiadainformacao.com.br)
-* Gabriel Fonseca - [e-mail](gabriel.fonseca@nexttecnologiadainformacao.com.br)
-* André Toledo Gama - [e-mail](andre.gama@nexttecnologiadainformacao.com.br)
+* Felipe Renan Vieira - felipe.vieira@nexttecnologiadainformacao.com.br
+* Gabriel Fonseca - gabriel.fonseca@nexttecnologiadainformacao.com.br
+* André Toledo Gama - andre.gama@nexttecnologiadainformacao.com.br
