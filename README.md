@@ -20,7 +20,7 @@ Você poderá usar o composer
 ## Exemplo
 
 > YoutubeService
-```
+```php
 <?php
 
 use Google_Client;
@@ -53,7 +53,7 @@ final class YoutubeService
 
 > Chamando classe
 
-```
+```php
 <?php
 
 use \YoutubeAPI\YoutubeService;
@@ -67,3 +67,24 @@ public function testVideo()
 	}
 ```
 
+---
+
+## Referências
+
+[Youtube API DATA v3](https://developers.google.com/youtube/v3/docs/search/list)
+
+[Google APIs](https://googleapis.github.io/)
+
+[Google API Github](https://github.com/googleapis)
+
+---
+
+## Author
+
+* Gabriel Modesto - [e-mail](gabriel.modesto@nexttecnologiadainformacao.com.br)
+
+## Colaboradores
+
+* Felipe Renan Vieira - [e-mail](felipe.vieira@nexttecnologiadainformacao.com.br)
+* Gabriel Fonseca - [e-mail](gabriel.fonseca@nexttecnologiadainformacao.com.br)
+* André Toledo Gama - [e-mail](andre.gama@nexttecnologiadainformacao.com.br)
